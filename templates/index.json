@@ -82,7 +82,7 @@
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>test<\/p>",
         "show_description": true,
         "description_style": "body",
         "collection": "bộ-sưu-tập-mua-he",
