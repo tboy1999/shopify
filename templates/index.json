@@ -116,7 +116,7 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "ao-dep",
+            "product": "clock",
             "second_image": false
           }
         },
