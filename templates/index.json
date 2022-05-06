@@ -116,7 +116,7 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "ao-dep",
             "second_image": false
           }
         },
