@@ -83,7 +83,7 @@
         "title": "Featured products",
         "heading_size": "h2",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
         "collection": "bộ-sưu-tập-mua-he",
         "products_to_show": 8,
@@ -158,21 +158,12 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
-        "column1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Logo.jpg",
+            "title": "",
+            "text": "<p>\"The leather is sourced from environmentally friendly tanneries in Italy, France, and Turkey, where Rure is based and everything is assembled by hand.\"<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -180,15 +171,15 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Mlouye_Refinery_logo_710x_f7b37b8b-df3f-4c20-a5b6-7703d5a8de3d.webp",
+            "title": "",
+            "text": "<p>\"All too often, we're forced to pick: style, or sustainability. Recently, more designers have been making environmental impact a top priority\"<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column1",
         "column2",
         "column3"
       ],
