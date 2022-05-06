@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "cheap and nice",
             "text_style": "body"
           }
         },
@@ -55,14 +55,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "High-end fashion products",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Functional handbags made of luxurious materials to improve people's lives in small but mighty ways.<\/p>"
           }
         }
       },
@@ -85,7 +85,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "bộ-sưu-tập-mua-he",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
