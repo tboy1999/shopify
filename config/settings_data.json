@@ -104,7 +104,7 @@
             "type": "announcement",
             "settings": {
               "text": "Free shipping available on all orders!",
-              "color_scheme": "background-1",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
