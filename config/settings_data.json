@@ -138,17 +138,17 @@
               "menu": "main-menu"
             }
           },
-          "footer-1": {
-            "type": "link_list",
+          "db648ea4-e4ef-4bb6-aa40-1df7d46e1949": {
+            "type": "text",
             "settings": {
-              "heading": "Info",
-              "menu": "info"
+              "heading": "Heading",
+              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1"
+          "db648ea4-e4ef-4bb6-aa40-1df7d46e1949"
         ],
         "settings": {
           "color_scheme": "background-1",
