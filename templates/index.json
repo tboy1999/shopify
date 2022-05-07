@@ -6,8 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "mobile city",
-            "heading_size": "h2"
+            "heading": "Branded Clothes",
+            "heading_size": "h0"
           }
         },
         "text": {
@@ -35,9 +35,10 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-iphone-12-nhat.jpg",
-        "image_overlay_opacity": 20,
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/32423029_1687561997959304_7050100864043712512_n.jpg",
+        "image_2": "shopify:\/\/shop_images\/5347670592374300.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
@@ -48,141 +49,20 @@
         "show_text_below": false
       }
     },
-    "1651908564b83ec04e": {
-      "type": "collection-list",
-      "blocks": {
-        "1651908564f77d7c43-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "xiaomi"
-          }
-        },
-        "1651908564f77d7c43-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "iphone"
-          }
-        },
-        "1651908564f77d7c43-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "accessory"
-          }
-        }
-      },
-      "block_order": [
-        "1651908564f77d7c43-0",
-        "1651908564f77d7c43-1",
-        "1651908564f77d7c43-2"
-      ],
-      "settings": {
-        "title": "phone companies",
-        "heading_size": "h1",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "color_scheme": "background-2",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1651908609a63c892c": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Iphone",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "iphone",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "165190929815e9aee2": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Xiaomi",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "xiaomi",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1651909391a365c962": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Accessory",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "accessory",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "cheap phone",
+            "heading": "High-end fashion products",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>specializes in providing cheap genuine phones and accessories<\/p>"
+            "text": "<p>Functional handbags made of luxurious materials to improve people's lives in small but mighty ways.<\/p>"
           }
         }
       },
@@ -197,26 +77,53 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "<p>test<\/p>",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "bộ-sưu-tập-mua-he",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "iphone"
+            "collection": "bộ-sưu-tập-mua-he"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "iphone-xs-max",
+            "product": "clock",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "xiaomi"
+            "collection": "bộ-sưu-tập-mua-he"
           }
         }
       },
@@ -240,13 +147,13 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/banner-iphone-12-nhat.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=u6fclZjbrMc&t=1s",
-        "description": "siêu phẩm galaxy s21 ultral",
+        "cover_image": "shopify:\/\/shop_images\/Mlouye_video_1100x_40838f5b-16f4-4652-9f57-df518330033d.webp",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
         "full_width": false,
-        "color_scheme": "inverse",
-        "padding_top": 44,
-        "padding_bottom": 44
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn": {
@@ -255,9 +162,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-iphone.jpg",
+            "image": "shopify:\/\/shop_images\/Logo.jpg",
             "title": "",
-            "text": "<p>The iPhone is<strong>a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface<\/strong>. The iPhone runs the iOS operating system, and in 2021 when the iPhone 13 was introduced, it offered up to 1 TB of storage and a 12-megapixel camera.<\/p>",
+            "text": "<p>\"The leather is sourced from environmentally friendly tanneries in Italy, France, and Turkey, where Rure is based and everything is assembled by hand.\"<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -265,9 +172,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/xiaomi-gay-tranh-cai-voi-logo-moi--3-760x367.jpg",
+            "image": "shopify:\/\/shop_images\/Mlouye_Refinery_logo_710x_f7b37b8b-df3f-4c20-a5b6-7703d5a8de3d.webp",
             "title": "",
-            "text": "<p>Xiaomi released its first smartphone and, by 2014, it had the largest market share of smartphones sold in China. Initially the company only sold its products online; however, it later opened brick and mortar stores<\/p>",
+            "text": "<p>\"All too often, we're forced to pick: style, or sustainability. Recently, more designers have been making environmental impact a top priority\"<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -297,11 +204,8 @@
   },
   "order": [
     "image_banner",
-    "1651908564b83ec04e",
-    "1651908609a63c892c",
-    "165190929815e9aee2",
-    "1651909391a365c962",
     "rich_text",
+    "featured_collection",
     "collage",
     "video",
     "multicolumn"
